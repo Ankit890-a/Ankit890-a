@@ -1,7 +1,7 @@
 {
    "splash_inter":"1",
    "onewebify":"https://loanwaystore.in/",
-   "link_redirect":"0",
+   "link_redirect":"1",
    "splash_redirect":"0",
    "adposition":"0",
    "admob_showAdStatus":"0",
