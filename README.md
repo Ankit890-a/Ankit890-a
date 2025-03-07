@@ -1,9 +1,9 @@
 {
    "splash_inter":"0",
    "onewebify":"https://loanwaystore.in/",
-   "link_redirect":"2",
+   "link_redirect":"0",
    "livetv":"https://loanwaystore.in/",
-   "splash_redirect":"0",
+   "splash_redirect":"1",
    "adposition":"0",
    "admob_showAdStatus":"0",
    "AppID":"",
