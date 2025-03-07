@@ -1,7 +1,7 @@
 {
    "splash_inter":"0",
    "onewebify":"https://loanwaystore.in/",
-   "link_redirect":"1",
+   "link_redirect":"0",
    "livetv":"https://crichd.com.co/live-cricket-streaming-free-website",
    "splash_redirect":"1",
    "adposition":"0",
